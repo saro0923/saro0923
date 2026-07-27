@@ -119,3 +119,156 @@ Here are some of my highlighted AI and software development projects:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saro0923&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+Here are some of the AI, Machine Learning, and Full Stack projects I have built during my academic journey and internships.
+
+---
+
+## 🎮 AI Visual Novel Engine
+**Capstone Project – MirAI School of Technology (Assignment 5)**
+
+An AI-powered interactive visual novel built using **Google Gemini AI**, **Pollinations AI**, **gTTS**, and **Streamlit**. Users can choose story genres, interact with dynamic story choices, generate AI-powered images, and listen to narrated stories using text-to-speech.
+
+### ✨ Features
+- 🎭 Dynamic AI-generated story progression
+- 🖼️ AI-generated visuals using Pollinations AI
+- 🔊 Text-to-Speech narration (gTTS)
+- 🧠 Stateful story history using Streamlit Session State
+- 🎮 Interactive "Choose Your Own Adventure" gameplay
+- 🔄 Restart Story functionality
+- 🛡️ Error handling with `try...except`
+
+**Tech Stack:** Python • Streamlit • Google Gemini • Pollinations AI • gTTS
+
+🔗 Repository:
+https://github.com/saro0923/Mirai-AI-Summer-Internship/tree/main/Visual_Novel_Engine
+
+---
+
+## 🎨 AI Image Studio
+**MirAI Assignment 4**
+
+An AI-powered image generation application that creates images from text prompts using Pollinations AI with multiple customization options.
+
+### ✨ Features
+- AI Image Generation
+- Multiple Art Styles
+- Custom Image Size
+- Magic Prompt Enhancement
+- Surprise Me Generator
+- Download Generated Images
+
+**Tech Stack:** Python • Streamlit • Pollinations AI
+
+🔗 Repository:
+https://github.com/saro0923/Mirai-AI-Summer-Internship/tree/main/AI_Image_Studio
+
+---
+
+## 🧠 Memory Vault (Stateful Chatbot)
+**MirAI Assignment 3**
+
+Enhanced the AI chatbot with persistent conversation memory using Streamlit Session State.
+
+### ✨ Features
+- Stateful conversations
+- Chat history
+- Multiple AI personalities
+- Persistent memory
+- New Chat option
+
+**Tech Stack:** Python • Streamlit • Google Gemini
+
+🔗 Repository:
+https://github.com/saro0923/Mirai-AI-Summer-Internship/tree/main/Memory_Vault
+
+---
+
+## 🤖 AI Multiverse Chatbot
+**MirAI Assignment 2**
+
+A multi-personality AI chatbot powered by Google Gemini AI capable of responding as different AI personas.
+
+### ✨ Features
+- Multiple AI personalities
+- Real-time conversations
+- Google Gemini integration
+- Interactive Streamlit interface
+
+**Tech Stack:** Python • Streamlit • Google Gemini
+
+🔗 Repository:
+https://github.com/saro0923/Mirai-AI-Summer-Internship/tree/main/AI_Multiverse_Chatbot
+
+---
+
+## 🛰️ Identity Echo Interface
+**MirAI Assignment 1**
+
+A Streamlit application focused on user interaction, validation, and structured responses.
+
+### ✨ Features
+- User input validation
+- Error handling
+- Personalized responses
+- Token estimation
+
+**Tech Stack:** Python • Streamlit
+
+🔗 Repository:
+https://github.com/saro0923/Mirai-AI-Summer-Internship/tree/main/Identity_Echo_Interface
+
+---
+
+## 📈 AI Stock Intelligence & Prediction Platform
+
+An AI-powered stock analysis platform that combines machine learning, technical analysis, sentiment analysis, and multi-agent reasoning to provide intelligent investment insights.
+
+### ✨ Features
+- Stock price prediction
+- Technical indicators
+- Sentiment analysis
+- Multi-Agent AI architecture
+- Interactive Streamlit dashboard
+
+**Tech Stack:** Python • Streamlit • XGBoost • Scikit-learn • Plotly • yFinance • Cohere AI
+
+🔗 Repository:
+https://github.com/saro0923/AI-Stock-Intelligence-Prediction-Platform
+
+---
+
+## ❤️ Generative AI Mental Health Crisis Counseling Bot
+
+A Retrieval-Augmented Generation (RAG) based AI counseling assistant that provides supportive conversations using Large Language Models and semantic search.
+
+### ✨ Features
+- Emotion detection
+- Risk classification
+- RAG-based document retrieval
+- Gemini AI responses
+- Modern web interface
+
+**Tech Stack:** Python • FastAPI • React • LangChain • FAISS • Gemini AI
+
+🔗 Repository:
+https://github.com/saro0923/GEN-AI-MENTAL-HEALTH-CHATBOT
+
+---
+
+## 🌾 Crop Yield Prediction using Random Forest
+
+A Machine Learning project that predicts agricultural crop yield using historical environmental and farming data.
+
+### ✨ Features
+- Crop yield prediction
+- Data preprocessing
+- Feature engineering
+- Random Forest model
+- Performance evaluation
+
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
