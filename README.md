@@ -272,3 +272,100 @@ A Machine Learning project that predicts agricultural crop yield using historica
 - Performance evaluation
 
 **Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
+
+---
+
+# 🏆 Certifications
+
+I continuously enhance my technical knowledge through industry-recognized certifications and professional learning programs.
+
+- 🏅 Deloitte – Data Analytics Job Simulation
+- 🏅 IBM – Introduction to Containers with Docker, Kubernetes & OpenShift
+- 🏅 Simplilearn – Business Intelligence Fundamentals
+- 🏅 Udemy – The Complete Python Developer
+- 🏅 Google Cloud – Generative AI Virtual Internship
+- 🏅 Google AI-ML Virtual Internship
+- 🏅 EduSkills – Generative AI Virtual Internship
+- 🏅 Introduction to MongoDB
+- 🏅 ServiceNow Micro-Certification
+- 🏅 ISRO – Overview of Global Navigation Satellite System (GNSS)
+
+---
+
+# 📜 Internship Experience
+
+## 🚀 MirAI School of Technology
+**Virtual Summer Internship 2026 – AI Builder Track**
+
+Successfully completed multiple hands-on AI projects focused on Generative AI, Streamlit, Session State Management, AI Image Generation, and Interactive AI Applications.
+
+### Highlights
+
+- 🎯 Identity Echo Interface
+- 🤖 AI Multiverse Chatbot
+- 🧠 Memory Vault
+- 🎨 AI Image Studio
+- 🎮 AI Visual Novel Engine
+
+**Key Skills Developed**
+
+- Python Development
+- Streamlit
+- Google Gemini AI
+- Prompt Engineering
+- JSON Parsing
+- Dynamic UI Generation
+- Session State Management
+- AI Image Generation
+- Text-to-Speech Integration
+- Git & GitHub Workflow
+
+---
+
+# 💼 Career Objective
+
+I am an aspiring **AI Engineer** and **Full Stack Developer** passionate about building intelligent software solutions using Artificial Intelligence, Machine Learning, and Generative AI.
+
+I enjoy solving real-world problems through innovative applications and continuously learning emerging technologies. My goal is to contribute to impactful AI products while growing as a software engineer in a collaborative and innovative environment.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/saro0923">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saravanan2311/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saravanan200423@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://saro0923.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=saro0923&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+# 🌟 Thank You for Visiting!
+
+Thank you for visiting my GitHub profile.
+
+If you like my projects or find them useful, feel free to ⭐ star the repositories and connect with me on LinkedIn.
+
+Let's build amazing AI-powered solutions together! 🚀
