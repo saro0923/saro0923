@@ -369,3 +369,71 @@ Thank you for visiting my GitHub profile.
 If you like my projects or find them useful, feel free to ⭐ star the repositories and connect with me on LinkedIn.
 
 Let's build amazing AI-powered solutions together! 🚀
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saro0923/saro0923/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+> **Note:** This animation will appear after you configure the GitHub Action that generates the snake SVG.
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saro0923&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+> **"The best way to predict the future is to build it."** 🚀
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Building AI-powered applications with **Google Gemini**
+- 🧠 Exploring **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)**
+- 🌐 Developing scalable **Full Stack** applications
+- 🛠️ Contributing to **Open Source**
+- 📚 Continuously learning modern AI and software engineering technologies
+
+---
+
+# 🌟 Let's Build Something Amazing Together!
+
+If you're interested in AI, Machine Learning, Full Stack Development, or Open Source collaboration, I'd love to connect.
+
+<p align="center">
+
+<a href="https://github.com/saro0923">
+<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saravanan2311/">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Thanks for visiting my GitHub profile!** ⭐
+
+If you enjoy my projects, consider giving them a ⭐ and following my journey.
+
+**Happy Coding! 🚀**
+
+</p>
