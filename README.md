@@ -372,16 +372,6 @@ Let's build amazing AI-powered solutions together! 🚀
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saro0923/saro0923/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-> **Note:** This animation will appear after you configure the GitHub Action that generates the snake SVG.
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
